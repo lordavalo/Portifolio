@@ -19,7 +19,7 @@ Muito do que aprendi foi no dia a dia, lendo livros, tutoriais, as falhas do dia
 
 
 ## Projetos:
-* Projeto Análise Airbnb Tokyo (https://bit.ly/3afu2eh)
+* Projeto Análise Airbnb Tokyo ()
 
 
 
