@@ -22,6 +22,8 @@ Muito do que aprendi foi no dia a dia, lendo livros, tutoriais, as falhas do dia
 <br>
 <a href="https://bit.ly/3e0eN9O"> Projeto Análise Airbnb Tokyo <br>
   <a href="https://bit.ly/3ehifxa"> Projeto Análise Covid-19 Brasil <br>
+    <a href="https://bit.ly/3eO882U"> Projeto Análise da Violência no Rio de Janeiro <br>
+    
   
 
 
